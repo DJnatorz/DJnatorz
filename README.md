@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DJnatorz
 - 👀 I’m interested in minecraft crap, GregTech New Horizons for example. I also enjoy making things randomly.
 - 🌱 I’m currently learning c++, with vulkan/openGL.
-- 💞️ I’m looking to collaborate on GTNH :D
+- 💞️ I’m looking to collaborate on NOOTTHHIINNGG. BE GONE
 - 📫 How to reach me? idk if you can use github to do so but you could use that.
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I've not got many fun things to share!
